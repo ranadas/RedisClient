@@ -14,7 +14,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<eclipse.jface.version>3.3.0-I20070606-0010</eclipse.jface.version>
 		<jedis.version>2.7.2</jedis.version>
 		<slf4j.log4j.version>1.7.2</slf4j.log4j.version>
